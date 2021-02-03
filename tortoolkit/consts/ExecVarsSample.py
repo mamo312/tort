@@ -36,7 +36,7 @@ except:
 
         # DB URI for access
         DB_URI = "postgres://ngipzgoimwphje:d1f9ce525ddee70ed102ca2b75c81bce9cb94817a10a357bb3bfe576b129d02c@ec2-54-170-123-247.eu-west-1.compute.amazonaws.com:5432/d6nl7mpcm9is4l"
-        https://drake.dewitt.workers.dev/ALLINONE
+        GD_INDEX_URL = "https://drake.dewitt.workers.dev/ALLINONE"
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
         #DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
         
